@@ -162,4 +162,5 @@ plt.scatter(df["Region"],df["Profit"], c ="blue")
 plt.show() 
 
 ![24](https://github.com/lokeshrahulv/ODD2023-Datascience-Ex-08/assets/118423842/5853588a-ad9e-459c-a60d-2575f525caca)
-# OUTPUT
+## RESULT:
+Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
